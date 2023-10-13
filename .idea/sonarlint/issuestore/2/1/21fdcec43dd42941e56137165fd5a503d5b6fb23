@@ -1,0 +1,12 @@
+
+u	java:S135F"YReduce the total number of break and continue statements in this loop to use at most one.(«Æ·º8³Šéô±1
+Z
+java:S3878W"8Remove this array creation and simply pass the elements.(«ØœŽùÿÿÿÿ8³Šéô±1
+c
+java:S11920"FDefine a constant instead of duplicating this literal "utf-8" 3 times.(¾”üÜ8³Šéô±1
+Z
+java:S3878X"8Remove this array creation and simply pass the elements.(‹ À®þÿÿÿÿ8³Šéô±1
+{
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËùÛñúÿÿÿÿ8³Šéô±1
+™
+java:S1130^"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(©Åž¶úÿÿÿÿ8ç†Ð•²1
